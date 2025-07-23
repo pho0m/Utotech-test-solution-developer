@@ -86,7 +86,7 @@ Tech Stack: `Next.js + TypeScript + Tailwind CSS + Shadcn UI`
 
 ## 📌 การส่งงาน
 
-โปรด Fork และทำการ Pull Request เข้ามาที่ branch:
+โปรด Fork และทำการ Pull Request เข้ามาที่ branch: demo
 
 📁 ตัวอย่าง: `develop-jojo`
 
