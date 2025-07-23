@@ -20,6 +20,7 @@ Tech Stack: `Next.js + TypeScript + Tailwind CSS + Shadcn UI`
 
 - ผู้ใช้สามารถอัปโหลดไฟล์ข้อมูลผ่านหน้าเว็บ
 - ข้อมูลที่อัปโหลดจะถูกจัดเก็บไว้ใน `Context` หรือ `Local Storage` เพื่อใช้งานต่อเนื่อง
+- ใช้ข้อมูลจากไฟล์ data-for-test-new-employee.xlsx
 
 ---
 
